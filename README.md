@@ -11,6 +11,7 @@ Made with <strong>IntelliJ IDEA Educational Edition 2022.2</strong>.</p>
         <tr>
             <td>Main Menu</td>
             <td>Store</td>
+            <td>Work Rewards</td>
         </tr>
         <tr>
             <td><img src="https://github.com/deveju/JavaFX-firstProject/assets/117952692/10a17e72-1beb-4724-b4ed-45ed51aa3af2" alt="Main Menu"></td>
