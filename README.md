@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">JavaFX-firstProject</h1>
+<h1 style="text-align: center;">JavaFX-simulatorGame</h1>
 
 <p style="text-align: center;">Decided to post my first time trying JavaFX after a year learning Java.
 It was a simple project to create a little game about life? I guess.
