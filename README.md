@@ -1,9 +1,9 @@
 # JavaFX-simulatorGame
 
-Decided to post my first time trying JavaFX after a year learning Java.
-It was a simple project to create a little game about life? I guess.
-Made after watching tutorial videos from *thenewsboston* youtube channel, I watched until episode 7 before I started.
-Made with *IntelliJ IDEA Educational Edition 2022.2*.
+##### Decided to post my first time trying JavaFX after a year learning Java.
+##### It was a simple project to create a little game about life? I guess.
+##### Made after watching tutorial videos from *thenewsboston* youtube channel, I watched until episode 7 before I started.
+* Made with *IntelliJ IDEA Educational Edition 2022.2*.
 
 ## Screenshots
 |Main Menu|Store|Work Rewards|
